@@ -1,0 +1,71 @@
+
+
+.option-box .gear-check,
+.navbar,
+.dropdown-menu > li > a,
+.carousel-indicators .active,
+.scroll-top
+
+{
+    background-color: rgb(167, 76, 1);
+
+}
+
+
+.subscribe .btn,
+.our-skills .info .btn,
+.contact-us button
+{
+    background-color:rgba(167, 76, 1, 0.8);
+
+}
+
+
+.about h1 span,
+.testimonials span,
+.footer h3,
+.footer .copyright span
+
+{
+    color:rgba(167, 76, 1, 0.85);
+}
+
+
+.testimonials .carousel-indicators li.active,
+.option-box .color-option
+{
+   
+    border:2px solid rgba(167, 76, 1, 0.7);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
